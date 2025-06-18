@@ -1,6 +1,5 @@
 # Don't commit node modules
 node_modules/
-dist
 
 # Ignore log files
 npm-debug.log*
