@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://spiffy-belekoy-9d82e4.netlify.app/*"
+  to = "https://handles.circlefolk.com/:splat"
+  status = 301
+  force = true
